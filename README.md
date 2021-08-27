@@ -1,16 +1,23 @@
-### Hi there 👋
+### Oi ✌️
 
-<!--
-**otonalmeidas/otonalmeidas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Wellington, sou dev Front-End/UI Jr e sou de São Paulo SP. Ainda em início de carreira (1 ano e meio), venho de uma transição da área musical onde trabalhei por mais de 5 anos. Tenho meus 2 pés no Front-End, mas gosto de me aventurar com Design de Interfaces quando necessário, o que me trás bastante facilidade no desenvolvimento.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://wellingtondas.com" target="_blank">
+    <img height="31rem" src="https://github.com/otonalmeidas/otonalmeidas/blob/main/img/website.png?raw=true">
+  </a>
+  <a href="https://codepen.io/otonalmeidas" target="_blank">
+    <img height="31rem" src="https://github.com/otonalmeidas/otonalmeidas/blob/main/img/codepen.png?raw=true">
+  </a>
+  <a href="https://linkedin.com/in/otonalmeidas" target="_blank">
+    <img height="31rem" src="https://github.com/otonalmeidas/otonalmeidas/blob/main/img/linkedin.png?raw=true">
+  </a>
+  <a href="https://instagram.com/otonalmeidas" target="_blank">
+    <img height="31rem" src="https://github.com/otonalmeidas/otonalmeidas/blob/main/img/instagram.png?raw=true">
+  </a>
+</div>
+<br>
+<div>
+  <a href="https://github.com/otonalmeidas">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=otonalmeidas&layout=compact&langs_count=7&theme=dark"/>
+</div>
