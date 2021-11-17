@@ -4,7 +4,7 @@ Me chamo Wellington, sou dev Front-End e sou de São Paulo SP. Ainda em início 
 
 <div>
   <a href="https://wellingtondas.com" target="_blank">
-    <img height="35rem" src="https://github.com/otonalmeidas/otonalmeidas/blob/main/img/website.png?raw=true">
+    <img height="35rem" src="https://raw.githubusercontent.com/otonalmeidas/otonalmeidas/main/img/portfolio.png">
   </a>
   <a href="https://codepen.io/otonalmeidas" target="_blank">
     <img height="35rem" src="https://github.com/otonalmeidas/otonalmeidas/blob/main/img/codepen.png?raw=true">
