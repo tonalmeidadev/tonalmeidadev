@@ -3,7 +3,7 @@
 Me chamo Wellington, sou dev Front-End e sou de São Paulo SP. Ainda em início de carreira (1 ano e meio), venho de uma transição da área musical onde trabalhei por mais de 5 anos. Tenho meus 2 pés no Front-End, mas também gosto de me aventurar com Design de Interfaces quando necessário, o que me trás bastante facilidade no desenvolvimento.
 
 <div>
-  <a href="https://wellingtondas.com" target="_blank">
+  <a href="https://tonalmeida.dev" target="_blank">
     <img height="35rem" src="https://raw.githubusercontent.com/otonalmeidas/otonalmeidas/main/img/portfolio.png">
   </a>
   <a href="https://codepen.io/otonalmeidas" target="_blank">
