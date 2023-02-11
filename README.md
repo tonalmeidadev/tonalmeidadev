@@ -1,6 +1,6 @@
 # Ton Almeida
 
-#### Front-End Developer
+#### Front-End and Creative Developer
 
 [![E-mail Badge](https://img.shields.io/badge/-oi@tonalmeida.dev-black?style=flat-square&logo=Gmail&logoColor=white&link=mailto:oi@tonalmeida.dev)](mailto:ton@tonalmeida.dev)
 [![Linkedin Badge](https://img.shields.io/badge/-Ton%20Almeida-black?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otonalmeidas/)](https://www.linkedin.com/in/otonalmeidas/)
