@@ -4,7 +4,7 @@
 </div>
 
 # Ton Almeida
-#### Creative Front-end Developer
+#### Front-end Developer
 
 <a href="https://tonalmeida.dev">
   <img src="https://img.shields.io/badge/-tonalmeida.dev-black?style=flat-square&logo=Vercel&logoColor=white&link=mailto:oi@tonalmeida.dev" alt="G-mail"/>
@@ -18,5 +18,6 @@
 <a href="https://instagram.com/tonalmeidadev">
   <img src="https://img.shields.io/badge/-tonalmeidadev-black?style=flat-square&logo=Instagram&logoColor=white&link=mailto:oi@tonalmeida.dev" alt="codepen"/>
 </a>
-
+<br />
+<br />
 I am Ton, a Creative Front-end Developer specializing in User Experience (UX) Design and Jamstack-based ecosystems. I am always interested in creating responsive solutions where design, motion, interaction, and accessibility seamlessly integrate.
