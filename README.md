@@ -3,7 +3,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tonalmeidadev&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
-# Ton Almeida
+# Wellington Almeida
 #### Front-end Developer
 
 <a href="https://tonalmeida.dev">
