@@ -1,6 +1,6 @@
 # Wellington Almeida
 
-Front-end Developer
+### Front-end Developer
 
 [![Twitter Badge](https://img.shields.io/badge/-Visit%20my%20website-262626?style=flat-square&link=https://wellingtondev.com/)](https://wellingtondev.com/) 
 [![Linkedin Badge](https://img.shields.io/badge/-Wellington%20Almeida-262626?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tonalmeidadev/)](https://www.linkedin.com/in/tonalmeidadev/) 
